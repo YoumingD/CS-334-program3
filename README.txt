@@ -1,4 +1,4 @@
-The excutable file is named as program 3.
+The excutable file is named as program 3. Codes are in main.cpp
 The "set aperture" will allow you choose different angle. The default angle is 45 degrees.
 The "rotation" will allow you rotate the cubes by clicking and holding mouse left and drag.
 The "show perspective" will show the extend line of edges.
